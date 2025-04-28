@@ -1,0 +1,10 @@
+SSH: vlsi-cmp-00.egr.duke.edu 
+
+cd workspace
+
+tcsh
+
+virtuoso &
+
+
+
